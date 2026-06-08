@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "3232323232",
+      "description": "32323",
+      "price": "32232",
+      "image": "https://cdn.pixabay.com/photo/2020/11/09/01/19/car-5725327_1280.jpg"
+    },
+    {
+      "id": 2,
+      "name": "saddsadasd",
+      "description": "dsadasdas",
+      "price": "32232",
+      "image": "https://learn.zoner.com/wp-content/uploads/2025/04/zoner-ai-image-creator.jpg"
+    }
+  ]
+}
