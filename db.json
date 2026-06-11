@@ -1,18 +1,137 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "3232323232",
-      "description": "32323",
-      "price": "32232",
-      "image": "https://cdn.pixabay.com/photo/2020/11/09/01/19/car-5725327_1280.jpg"
+      "id": 2,
+      "name": "BMW M5",
+      "description": "yaxshi mashina emas",
+      "price": "9999999",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-bmw-m5-115-671a7a8e94c11.jpg?crop=0.744xw:0.630xh;0.128xw,0.267xh&resize=2048:*"
     },
     {
-      "id": 2,
-      "name": "saddsadasd",
-      "description": "dsadasdas",
-      "price": "32232",
-      "image": "https://learn.zoner.com/wp-content/uploads/2025/04/zoner-ai-image-creator.jpg"
+      "id": 3,
+      "name": "Audi RS7",
+      "description": "Luxury performance sedan",
+      "price": "85999",
+      "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800"
+    },
+    {
+      "id": 4,
+      "name": "Mercedes AMG GT",
+      "description": "Luxury sports car",
+      "price": "109999",
+      "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800"
+    },
+    {
+      "id": 5,
+      "name": "Porsche 911",
+      "description": "Iconic sports car",
+      "price": "119999",
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800"
+    },
+    {
+      "id": 6,
+      "name": "Ford Mustang",
+      "description": "American muscle car",
+      "price": "55999",
+      "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800"
+    },
+    {
+      "id": 7,
+      "name": "Chevrolet Camaro",
+      "description": "Sporty performance vehicle",
+      "price": "52999",
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800"
+    },
+    {
+      "id": 8,
+      "name": "Lamborghini Huracan",
+      "description": "Exotic supercar",
+      "price": "249999",
+      "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=800"
+    },
+    {
+      "id": 9,
+      "name": "Ferrari F8",
+      "description": "Italian supercar",
+      "price": "289999",
+      "image": "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800"
+    },
+    {
+      "id": 10,
+      "name": "McLaren 720S",
+      "description": "Track-focused supercar",
+      "price": "299999",
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800"
+    },
+    {
+      "id": 11,
+      "name": "Toyota Supra",
+      "description": "Legendary sports coupe",
+      "price": "59999",
+      "image": "https://images.unsplash.com/photo-1502161254066-6c74afbf07aa?w=800"
+    },
+    {
+      "id": 12,
+      "name": "Nissan GT-R",
+      "description": "Japanese performance icon",
+      "price": "114999",
+      "image": "https://images.unsplash.com/photo-1611821064430-0d40291d0f0b?w=800"
+    },
+    {
+      "id": 13,
+      "name": "Honda Civic Type R",
+      "description": "Hot hatch performance car",
+      "price": "45999",
+      "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800"
+    },
+    {
+      "id": 14,
+      "name": "Mazda MX-5",
+      "description": "Lightweight roadster",
+      "price": "32999",
+      "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?w=800"
+    },
+    {
+      "id": 15,
+      "name": "Subaru WRX STI",
+      "description": "Rally-inspired sedan",
+      "price": "42999",
+      "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800"
+    },
+    {
+      "id": 16,
+      "name": "Jeep Wrangler",
+      "description": "Off-road adventure SUV",
+      "price": "48999",
+      "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800"
+    },
+    {
+      "id": 17,
+      "name": "Range Rover Sport",
+      "description": "Luxury SUV",
+      "price": "99999",
+      "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=800"
+    },
+    {
+      "id": 18,
+      "name": "Toyota Land Cruiser",
+      "description": "Reliable off-road SUV",
+      "price": "74999",
+      "image": "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?w=800"
+    },
+    {
+      "id": 19,
+      "name": "Hyundai Ioniq 5",
+      "description": "Modern electric crossover",
+      "price": "51999",
+      "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=800"
+    },
+    {
+      "id": 20,
+      "name": "Kia EV6",
+      "description": "Futuristic electric vehicle",
+      "price": "54999",
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800"
     }
   ]
 }
